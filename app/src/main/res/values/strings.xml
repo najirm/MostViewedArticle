@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Most Viewed Article</string>
+    <string name="api_key">2a068f1d238346ee9f2a90e8d37e7d61</string>
+    <string name="published_date">Published Date : {0}</string>
+</resources>
